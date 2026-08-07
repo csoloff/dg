@@ -3,7 +3,15 @@ title: Soloff et al. (2026)
 draft: false
 tags:
   - ARCSIX
-  - research
+  - RRI
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
+# #RRI Literature Review
+
+| Relevant Papers |
+| --------------- |
+| ![[Other]]      |
+|                 |
+
+![[Other]]
+
+![[RRI.base]]
